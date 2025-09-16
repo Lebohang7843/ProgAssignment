@@ -5,7 +5,7 @@ The Contract Monthly Claim System (CMCS) is a GUI-only prototype designed to sim
 
 ⚠️ Note: This is a prototype — functionality is limited to front-end design with no back-end integration.
 
-GitHub link: 
+GitHub link: https://github.com/Lebohang7843/ProgAssignment.git
 
 🚀 Features
 

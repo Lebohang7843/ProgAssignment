@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("progCMCS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd795ccf7c857b24ac6ddbc3bbe44a3f54f8662d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae63ed84c7c0c1e30e7b45750eb2990bba6b2ac7")]
 [assembly: System.Reflection.AssemblyProductAttribute("progCMCS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("progCMCS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

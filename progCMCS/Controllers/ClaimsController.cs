@@ -1,8 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Security.Claims;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using progCMCS.Models;
+using System.Collections.Generic;
+using System;
 
 namespace progCMCS.Controllers
 {

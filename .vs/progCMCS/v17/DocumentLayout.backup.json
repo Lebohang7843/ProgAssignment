@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\progCMCS\\progCMCS\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41ED3587-2C37-4D3C-9B53-EF28A111A587}|progCMCS\\progCMCS.csproj|c:\\users\\lab_services_student\\desktop\\progcmcs\\progcmcs\\progcmcs\\controllers\\approvalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41ED3587-2C37-4D3C-9B53-EF28A111A587}|progCMCS\\progCMCS.csproj|solutionrelative:progcmcs\\controllers\\approvalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41ED3587-2C37-4D3C-9B53-EF28A111A587}|progCMCS\\progCMCS.csproj|c:\\users\\lab_services_student\\desktop\\progcmcs\\progcmcs\\progcmcs\\controllers\\claimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41ED3587-2C37-4D3C-9B53-EF28A111A587}|progCMCS\\progCMCS.csproj|solutionrelative:progcmcs\\controllers\\claimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41ED3587-2C37-4D3C-9B53-EF28A111A587}|progCMCS\\progCMCS.csproj|c:\\users\\lab_services_student\\desktop\\progcmcs\\progcmcs\\progcmcs\\controllers\\lecturerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41ED3587-2C37-4D3C-9B53-EF28A111A587}|progCMCS\\progCMCS.csproj|solutionrelative:progcmcs\\controllers\\lecturerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41ED3587-2C37-4D3C-9B53-EF28A111A587}|progCMCS\\progCMCS.csproj|c:\\users\\lab_services_student\\desktop\\progcmcs\\progcmcs\\progcmcs\\controllers\\managerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41ED3587-2C37-4D3C-9B53-EF28A111A587}|progCMCS\\progCMCS.csproj|solutionrelative:progcmcs\\controllers\\managerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41ED3587-2C37-4D3C-9B53-EF28A111A587}|progCMCS\\progCMCS.csproj|c:\\users\\lab_services_student\\desktop\\progcmcs\\progcmcs\\progcmcs\\controllers\\supportingdocumentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41ED3587-2C37-4D3C-9B53-EF28A111A587}|progCMCS\\progCMCS.csproj|solutionrelative:progcmcs\\controllers\\supportingdocumentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41ED3587-2C37-4D3C-9B53-EF28A111A587}|progCMCS\\progCMCS.csproj|c:\\users\\lab_services_student\\desktop\\progcmcs\\progcmcs\\progcmcs\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41ED3587-2C37-4D3C-9B53-EF28A111A587}|progCMCS\\progCMCS.csproj|solutionrelative:progcmcs\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +34,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClaimsController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\progCMCS\\progCMCS\\progCMCS\\Controllers\\ClaimsController.cs",
+              "RelativeDocumentMoniker": "progCMCS\\Controllers\\ClaimsController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\progCMCS\\progCMCS\\progCMCS\\Controllers\\ClaimsController.cs",
+              "RelativeToolTip": "progCMCS\\Controllers\\ClaimsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T13:43:24.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApprovalsController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\progCMCS\\progCMCS\\progCMCS\\Controllers\\ApprovalsController.cs",
+              "RelativeDocumentMoniker": "progCMCS\\Controllers\\ApprovalsController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\progCMCS\\progCMCS\\progCMCS\\Controllers\\ApprovalsController.cs",
+              "RelativeToolTip": "progCMCS\\Controllers\\ApprovalsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T13:43:03.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LecturersController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\progCMCS\\progCMCS\\progCMCS\\Controllers\\LecturersController.cs",
+              "RelativeDocumentMoniker": "progCMCS\\Controllers\\LecturersController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\progCMCS\\progCMCS\\progCMCS\\Controllers\\LecturersController.cs",
+              "RelativeToolTip": "progCMCS\\Controllers\\LecturersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T13:43:52.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManagersController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\progCMCS\\progCMCS\\progCMCS\\Controllers\\ManagersController.cs",
+              "RelativeDocumentMoniker": "progCMCS\\Controllers\\ManagersController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\progCMCS\\progCMCS\\progCMCS\\Controllers\\ManagersController.cs",
+              "RelativeToolTip": "progCMCS\\Controllers\\ManagersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T13:44:14.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SupportingDocumentsController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\progCMCS\\progCMCS\\progCMCS\\Controllers\\SupportingDocumentsController.cs",
+              "RelativeDocumentMoniker": "progCMCS\\Controllers\\SupportingDocumentsController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\progCMCS\\progCMCS\\progCMCS\\Controllers\\SupportingDocumentsController.cs",
+              "RelativeToolTip": "progCMCS\\Controllers\\SupportingDocumentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T13:44:48.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\progCMCS\\progCMCS\\progCMCS\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "progCMCS\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\progCMCS\\progCMCS\\progCMCS\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "progCMCS\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T13:38:56.509Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
